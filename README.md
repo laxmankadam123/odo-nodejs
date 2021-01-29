@@ -22,3 +22,4 @@ The [prom-client](https://www.npmjs.com/package/prom-client) module will collect
 ## License
 
 This stack is licensed under the [EPL 2.0](./LICENSE) license.
+This  odo nodejs repository used to deploy they nodejs application into they k8s and openshift
